@@ -25,9 +25,6 @@ volunteer-hub/
 ├── package.json
 └── README.md
 
-🎥 Video Walkthrough
-
-Project Features Overview: Watch Here (1–3 minutes)
 
 ✨ Features
 
